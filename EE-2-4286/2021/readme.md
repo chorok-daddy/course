@@ -26,34 +26,7 @@ _Prerequisites:_
 
 | Date | Topic | Reference | Assignment |
 | ---- | ----- | --------- | ---------- |
-| 08/28 | [Introduction](prerequisite/slides.pdf) | . | [Homework #0](homework/hw0.md) |
-| 09/04 | Prerequisite - Statistics | . | . |
-| 09/09 | Linear Model - Regression (1)  | . | Homework #1 |
-| 09/11 | Linear Model - Regression (2) | . | . |
-| 09/16 | Linear Model - Classification | . | . |
-| 09/18 | Linear Model - Other Distributions | . | . |
-| 09/23 | Decision Tree | . | Homework #2 |
-| 09/25 | Boosting | . | . |
-| 09/30 | Bootstrap | . | . |
-| 10/02 | Random Forests | . | Homework #3 |
-| 10/07 | Bias-Variance Tradeoff | . | . |
-| 10/09 | Evaluation Metrics | . | . |
-| 10/16 | Evaluation Strategies | . | . |
-| 10/21 | _Midterm Exam_ | . | . |
-| 10/23 | Nearest Neighbors | . | Homework #4 |
-| 10/28 | Dimensionality Reduction (1) | . | . |
-| 10/30 | Dimensionality Reduction (2) | . | . |
-| 11/04 | Convex Optimization | . | Homework #5 |
-| 11/06 | _Project Elevator Pitch_ | . | . |
-| 11/11 | Support Vector Machine | . | . |
-| 11/13 | Neural Networks | . | . |
-| 11/18 | Deep Learning (1) | . | . |
-| 11/20 | Deep Learning (2) | . | . |
-| 11/25 | Applications - DL-based Drug Discovery | . | . |
-| 11/27 | Applications - Recommender System | . | . |
-| 12/02 | _Presentations_ | . | . |
-| 12/04 | _Presentations_ | . | . |
-| 12/09 | _Presentations_ | . | . |
+| 03/05 | [Introduction](lecture/01.pdf) | . | [Homework #0](homework/hw0.md) |
 
 NOTE: Course materials with the `md` extension are [Markdown](https://en.wikipedia.org/wiki/Markdown) files.
 To read the Markdown files, you can use various "free" Markdown viewer applications out there e.g:
